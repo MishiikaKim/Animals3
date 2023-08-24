@@ -1,0 +1,38 @@
+body{
+    font-family: 'Black Ops One', cursive;
+    background-color:#962D71;
+}
+
+.header_div{
+    background:#BA5089;
+    color:#443445;
+    text-shadow: 5px 5px 5px rgb( 151 , 149 , 149 );
+}
+
+.header_div p{
+    font-family: 'Nanum Brush Script', cursive;   
+     color:#443445;
+    letter-spacing:2px;
+    font-size:30px;
+    font-weight:bold;
+}
+
+.main_div button{
+    font-family: fantasy;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: #BA5089;
+    bottom: 0px;
+    width: 100%;
+    font-size: 18px;
+    background-color: #443445;
+    line-height:3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb( 151 , 149 , 149 );
+}
